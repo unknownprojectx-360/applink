@@ -1,7 +1,5 @@
 {
     "promote": "myUniverse",
     "renew": [],
-    "remove": [
-        "noOne"
-    ]
+    "remove": []
 }
