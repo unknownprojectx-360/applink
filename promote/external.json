@@ -1,5 +1,5 @@
 {
     "promote": "myUniverse",
-    "renew": ["evolutionPlanet","mySolar","planetGravity","popingBattle","popingJelly","prime"],
+    "renew": ["evolutionPlanet","mySolar","planetGravity","popingBattle","popingJelly","prime","mySolar"],
     "remove": []
 }
